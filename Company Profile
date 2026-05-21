@@ -1,0 +1,9 @@
+FinSure Technologies Pvt. Ltd. is a fictional medium-sized FinTech company that provides digital financial services including payment processing, customer onboarding, financial data aggregation, and transaction management solutions. The company operates in a highly regulated environment and uses cloud infrastructure and third-party integrations to deliver scalable, secure and reliable financial services.
+
+FinSure Technologies, which is based in India, has around 5,000 employees and provides services to retail customers and small to medium businesses. The organization relies on a number of third-party vendors to provide critical services, including cloud hosting, payment processing, identity verification, API-based financial data access, customer communications and operational support services.
+
+The company follows a cloud-first architecture utilizing platforms such as Amazon Web Services (AWS) and Microsoft Azure. Due to the sensitive nature of the data processed, including customer personal information, financial transaction data, cardholder data (CHD), and employee records, strong security, compliance, and governance controls are required.
+
+As a FinTech organization, FinSure Technologies is bound by regulatory and compliance requirements such as RBI guidelines, PCI-DSS standards and data protection obligations. The organization has a well-defined VRM program that addresses operational, cybersecurity, compliance and third-party dependency risks, including vendor classification, risk assessment, due diligence, continuous monitoring, and residual risk management.
+
+The key risk areas for the organization are payment fraud, data breaches, API failure, regulatory non-compliance and cloud service outage. The VRM program is central to ensuring operational resilience, security oversight and regulatory compliance across all third-party vendor relationships. 
